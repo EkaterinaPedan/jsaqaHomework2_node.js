@@ -1,0 +1,28 @@
+{
+  "name": "jsaqahomework2_node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaterinaPedan/jsaqaHomework2_node.js.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ekaterina Pedan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkaterinaPedan/jsaqaHomework2_node.js/issues"
+  },
+  "homepage": "https://github.com/EkaterinaPedan/jsaqaHomework2_node.js#readme",
+  "dependencies": {
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.4.2"
+  }
+}
